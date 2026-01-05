@@ -13,3 +13,4 @@ Este repositório contém exercícios e exemplos práticos desenvolvidos durante
 Praticar e evoluir meus conhecimentos em desenvolvimento web e montar meu portfólio no GitHub.
 
 ## 🚀 Autor
+Leonardo
